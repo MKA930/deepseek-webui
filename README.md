@@ -129,3 +129,6 @@ npm run build
 看到这里，请你点个免费的小小的star，谢谢！
 [![Star History Chart](https://api.star-history.com/svg?repos=LazyBoyJgn99/deepseek-webui&type=Date)](https://star-history.com/#LazyBoyJgn99/deepseek-webui&Date)
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
